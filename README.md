@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+
+
+
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
