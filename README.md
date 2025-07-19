@@ -2,7 +2,7 @@
 ## I'm AmirReza
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
-https://camo.githubusercontent.com/865d7b4232def6b8376ae98c2563a8f7521610bc7510b840d5e82328aa91b043/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f67697068792e676966
+![OS](https://camo.githubusercontent.com/865d7b4232def6b8376ae98c2563a8f7521610bc7510b840d5e82328aa91b043/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f67697068792e676966)
 
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
