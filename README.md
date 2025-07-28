@@ -23,13 +23,3 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
-| col1 | col2 | col3 |
-| -- | -- | -- |
-| Row1 col1 |Row1 col2|Row1 col3|
-| Row2 col1 |Row2 col2|Row2 col3|
-| Row3 col1 |Row3 col2|Row3 col3|
-| Row4 col1 |Row4 col2|Row4 col3|
-
-
