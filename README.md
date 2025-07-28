@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm AmirReza</h1>   
 
 <h2>About me</h2>
-- 🎓 &nbsp; Master of IT engineer 
-- 🌱 &nbsp; I love Learning IT's technologies
-- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
+- 🎓 &nbsp; Master’s in IT 
+- 🌱 &nbsp; I love learning about IT technologies
+- ✍️ &nbsp; Coding and drinking coffee are my hobbies :))
 
 <img align="center" src="https://camo.githubusercontent.com/32f8c02627301a5b66691d277231cf1c4dff95398b1f44d0520eac5a1d6d1391/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f336b50446d6f5764427051504e68436e55472f67697068792e676966"/>
 
