@@ -26,3 +26,6 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<h3>Contact with me </h3>
+<a href="http://t.me/Amiiiioooo"><img src="https://raw.githubusercontent.com/AmirReza32/AmirReza32/af0a2aecb3c05f0ec2f2bdb7105f2693a5055471/icons8-telegram-96.svg"></a>
